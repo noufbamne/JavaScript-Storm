@@ -10,7 +10,7 @@ Welcome to 'JavaScript-Storm', your ultimate destination for JavaScript awesomen
 - Code Snippets: Bite-sized JavaScript code snippets for quick reference and learning.
 - Projects: Showcase of innovative JavaScript projects to spark your creativity.
 
-Get Started
+### Get Started
 - Fork and clone the repository to start building your own projects.
 - Contribute to the repository by submitting your own code and projects.
 
@@ -22,8 +22,7 @@ Get Started
 ### Contribute
 We welcome contributions from fellow JavaScript enthusiasts! Submit your code, report issues, and suggest new features to make this repository even more awesome.
 
-Stay Connected
-
+### Stay Connected
 Contact for any suggestions, updates, tips, or behind-the-scenes insights.
 -> [noufbamne@gmail.com]
 
